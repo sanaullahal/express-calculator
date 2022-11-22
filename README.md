@@ -10,7 +10,7 @@ localhost:3000/divide/[number]/[number]<br>
 ## Installation
 
 ```
-git clone https://github.com/mkhira2/express-calculator.git
+git@github.com:sanaullahal/express-calculator.git
 cd express-calculator
 npm install
 node calculator.js
