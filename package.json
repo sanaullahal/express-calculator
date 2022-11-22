@@ -1,0 +1,23 @@
+{
+  "name": "express-calculator",
+  "version": "1.0.0",
+  "description": "Simple calculator using express and nodeJS. Try the following:<br><br>\r localhost:3000/add/[number]/[number]<br>\r localhost:3000/subtract/[number]/[number]<br>\r localhost:3000/multiply/[number]/[number]<br>\r localhost:3000/divide/[number]/[number]<br>",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanaullahal/express-calculator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanaullahal/express-calculator/issues"
+  },
+  "homepage": "https://github.com/sanaullahal/express-calculator#readme",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
